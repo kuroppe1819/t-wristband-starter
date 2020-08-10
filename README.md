@@ -1,5 +1,7 @@
 # t-wristband-starter
 
+The minimum project for T-Wristband can be displayed a string text on the screen.
+
 This document is quoting part of the [T-Wristband-MPU9250/README.MD](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband/blob/master/examples/T-Wristband-MPU9250/README.MD)
 
 1. Install the corresponding driver according to the serial communication board you use
